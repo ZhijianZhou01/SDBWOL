@@ -1,0 +1,17 @@
+names	date	location
+seq1	2020-01-01	China
+seq2	2020-01-05	China
+seq3	2020-01-19	China
+seq4	2020-01-21	China
+seq5	2019-12-31	China
+seq6	2020-01-16	China
+seq7	2020-01-17	China
+seq8	2020-01-21	USA
+seq9	2020-01-10	China
+seq10	2020-01-23	China
+seq11	2020-01-23	USA
+seq12	2020-01-22	USA
+seq13	2020-01-23	Japan
+seq14	2020-01-01	China
+seq15	2020-01-05	China
+seq16	2020-01-19	China
